@@ -61,12 +61,18 @@
               <% end %>
             </ol>
 
-            <h2>By Year</h2>
-            <ol>
-              <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-                <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</a></li>
-              <% end %>
-            </ol>
+            <h2>We Are</h2>
+            <div class="profile">
+            <a href="http://twitter.com/m5rk"><img src="/images/mark_profile.png"></a>
+
+            <a href="http://twitter.com/m5rk">Mark</a>
+            </div>
+
+            <div class="profile">
+            <a href="http://wiscoDude.github.io"><img src="/images/phil_profile.png"></a>
+
+            <a href="http://wiscoDude.github.io">Phil</a>
+            </div>
           </div>
         </div>
       </div>
