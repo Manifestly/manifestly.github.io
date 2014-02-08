@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="/stylesheets/blog.css">
 
-    <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <title>Manifestly Blog <%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
   <body>
@@ -25,6 +25,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-7">
+          <h1>Manifestly Blog</h1>
+          <br>
           <%= yield %>
 
           <div id="disqus_thread"></div>
@@ -69,6 +71,30 @@
         </div>
       </div>
     </div>
+    <footer id="footer">
+      <ul class="container cols">
+        <li class="col">
+          <h5>Company</h5>
+          <ul>
+            <li><a href="https://manifest.ly/about">About</a></li>
+          </ul>
+        </li>
+        <li class="col">
+          <h5>Learn</h5>
+          <ul>
+            <li><a href="https://manifest.ly/how_works">How it Works</a></li>
+            <li><a href="https://blog.manifest.ly">Blog</a></li>
+          </ul>
+        </li>
+        <li class="col">
+          <h5>Contact</h5>
+          <ul>
+            <li>+1.855.843.3833</li>
+            <li><a href="mailto:support@manifest.ly">support@manifest.ly</a></li>
+          </ul>
+        </li>
+      </ul>
+    </footer>
   </body>
 </html>
 
