@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-01-20T21:05:00Z</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>We're Live</title>
+    <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
+    <id>http://blog.url.com/2014/01/20/live.html</id>
+    <published>2014-01-20T21:05:00Z</published>
+    <updated>2014-02-08T17:11:04-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="were-live"&gt;We're Live&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;!  &lt;a href="http://manifest.ly"&gt;We're live&lt;/a&gt;, but we're going to be quiet about things for just a bit.  Too much of the experience is not quite up to our expectations.&lt;/p&gt;
+
+&lt;p&gt;A few more weeks and we should be good to go with the MVP.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>We're Getting Close</title>
+    <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
+    <id>http://blog.url.com/2013/12/16/getting-close.html</id>
+    <published>2013-12-16T19:49:00Z</published>
+    <updated>2014-02-08T17:11:04-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="were-getting-close"&gt;We're Getting Close&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;.  The last few features and tightening of the application always take much longer than expected, but we feel like we're getting really close.  Our intern Zach has helped us implement a few things, and that's been great.&lt;/p&gt;
+
+&lt;p&gt;We still don't have a designer, so Philip has taken the reigns in order for us to go live. Although the design is not great, it'll need to be &lt;b&gt;good enough for the MVP&lt;/b&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>All About Process Improvement</title>
+    <link rel="alternate" href="http://blog.url.com/2013/11/18/all-about-process-improvement.html"/>
+    <id>http://blog.url.com/2013/11/18/all-about-process-improvement.html</id>
+    <published>2013-11-18T14:10:00Z</published>
+    <updated>2014-02-08T17:11:04-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="all-about-process-improvement"&gt;All About Process Improvement&lt;/h1&gt;
+
+&lt;p&gt;We've spent several months talking with organizations about what would interest them in a checklist app.  Anyone who's gone through this process knows how difficult this is because every organization has their own specific needs.  &lt;b&gt;Building something for everyone is a terrible mistake&lt;/b&gt; a startup can make, so figuring out the target of what are the core features for a core group of customers is indeed the million dollar question.&lt;/p&gt;
+
+&lt;p&gt;And it's difficult.&lt;/p&gt;
+
+&lt;h3 id="plan-do-check-act"&gt;Plan, Do, Check, Act&lt;/h3&gt;
+
+&lt;p&gt;With that said, it's clear the most important aspect of checklists is that organizations use them as part of a &lt;b&gt;Process of Continuous Improvement&lt;/b&gt;.  Which is exactly the main theme from Atul Gawande's book.&lt;/p&gt;
+
+&lt;p&gt;One of the key's to process improvement is good process feedback.  The whole &lt;b&gt;&lt;a href="http://en.wikipedia.org/wiki/PDCA"&gt;Plan, Do, Check, Act&lt;/a&gt;&lt;/b&gt; cycle (W. Edwards Deming).  Checklists can be a great tool for gathering data as well as communicating process changes to those involved in the process.  And we're focused on enabling that.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Looking for a UX Designer</title>
+    <link rel="alternate" href="http://blog.url.com/2013/10/08/looking-for-ux-designer.html"/>
+    <id>http://blog.url.com/2013/10/08/looking-for-ux-designer.html</id>
+    <published>2013-10-08T12:13:00Z</published>
+    <updated>2014-02-08T17:11:04-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="looking-for-a-ux-designer"&gt;Looking for a UX Designer&lt;/h1&gt;
+
+&lt;p&gt;Hey, Mark and I are looking for a UX designer to join us.  Our partner in that work (Aaron) had to bow out due to his work and family obligations.  He is a great dude and designer and we were looking forward to his work.&lt;/p&gt;
+
+&lt;p&gt;So now we're a bit stuck as neither of us is good with design nor UX.&lt;/p&gt;
+
+&lt;p&gt;We're looking for someone who has interest in the vision of helping organizations improve.  Someone who is able to join as an &lt;b&gt;equity partner&lt;/b&gt; as this is a non-paying gig.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Checklist Manifesto</title>
+    <link rel="alternate" href="http://blog.url.com/2013/08/07/the-checklist-manifesto.html"/>
+    <id>http://blog.url.com/2013/08/07/the-checklist-manifesto.html</id>
+    <published>2013-08-07T22:18:00Z</published>
+    <updated>2014-02-08T17:11:04-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="the-checklist-manifesto"&gt;The Checklist Manifesto&lt;/h1&gt;
+
+&lt;p&gt;Earlier this year &lt;a href="http://m5rk.github.io"&gt;Mark&lt;/a&gt; and &lt;a href="http://wiscodude.github.io"&gt;I&lt;/a&gt; read &lt;a href="https://www.google.com/search?q=the+checklist+manifesto"&gt;The Checklist Manifesto&lt;/a&gt; and both of us searched around the internet for apps that help organizations &lt;b&gt;specifically&lt;/b&gt; with checklists for organizations performing recurring processes.  We didn't find any.&lt;/p&gt;
+
+&lt;p&gt;So….we're building one.  And that's what we intend for &lt;a href="http://manifest.ly"&gt;Manifestly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=the+checklist+manifesto"&gt;&lt;img src="/images/checklist_manifesto.jpg" width="400px" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
