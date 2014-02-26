@@ -5,16 +5,36 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-01-20T21:05:00Z</updated>
+  <updated>2014-02-26T01:25:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Now with comments!</title>
+    <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
+    <id>http://blog.url.com/2014/02/26/comments.html</id>
+    <published>2014-02-26T01:25:00Z</published>
+    <updated>2014-02-26T13:24:17-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="our-blog-allows-comments"&gt;Our Blog Allows Comments!&lt;/h1&gt;
+
+&lt;p&gt;Ok, not exactly the blog post we &lt;b&gt;wished&lt;/b&gt; we could write today, but little steps. Eh?&lt;/p&gt;
+
+&lt;p&gt;We are &lt;a href="/2013/10/08/looking-for-ux-designer.html"&gt;still looking for a designer as a partner&lt;/a&gt; and meanwhile have managed to put together a reasonably functional UX.  With a solid designer though, we think the experience would be much, much better.  So, please share this link - it would help tremendously!&lt;/p&gt;
+
+&lt;p&gt;And, we're very close to launching.  Very, very close.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>We're Live</title>
     <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
     <id>http://blog.url.com/2014/01/20/live.html</id>
     <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-02-08T17:11:04-06:00</updated>
+    <updated>2014-02-26T13:21:16-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -32,7 +52,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
     <id>http://blog.url.com/2013/12/16/getting-close.html</id>
     <published>2013-12-16T19:49:00Z</published>
-    <updated>2014-02-08T17:11:04-06:00</updated>
+    <updated>2014-02-26T13:18:41-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -50,7 +70,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/11/18/all-about-process-improvement.html"/>
     <id>http://blog.url.com/2013/11/18/all-about-process-improvement.html</id>
     <published>2013-11-18T14:10:00Z</published>
-    <updated>2014-02-08T17:11:04-06:00</updated>
+    <updated>2014-02-26T13:18:41-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -74,7 +94,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/10/08/looking-for-ux-designer.html"/>
     <id>http://blog.url.com/2013/10/08/looking-for-ux-designer.html</id>
     <published>2013-10-08T12:13:00Z</published>
-    <updated>2014-02-08T17:11:04-06:00</updated>
+    <updated>2014-02-26T13:18:41-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -94,7 +114,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/08/07/the-checklist-manifesto.html"/>
     <id>http://blog.url.com/2013/08/07/the-checklist-manifesto.html</id>
     <published>2013-08-07T22:18:00Z</published>
-    <updated>2014-02-08T17:11:04-06:00</updated>
+    <updated>2014-02-26T13:18:41-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
