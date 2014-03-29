@@ -5,22 +5,44 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-02-26T01:25:00Z</updated>
+  <updated>2014-03-20T11:25:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>New 'Explainer' Video</title>
+    <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
+    <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
+    <published>2014-03-20T11:25:00Z</published>
+    <updated>2014-03-29T09:49:23-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="our-new-video-of-why-manifestly"&gt;Our New Video of 'Why Manifestly'&lt;/h1&gt;
+
+&lt;p&gt;We've launched.  And, we have a video of the &lt;a href="https://manifest.ly"&gt;benefits of the Manifestly service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We used &lt;a href="http://powtoon.com"&gt;PowToon&lt;/a&gt; to create the video.  We're impressed and found it very easy to use for this purpose.  We'll be using it for more 'explainer' type vides in the future.&lt;/p&gt;
+
+&lt;p&gt;Here's the new video we produced.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="//www.youtube.com/embed/rM4WdNmy7BM?rel=0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Now with comments!</title>
     <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
     <id>http://blog.url.com/2014/02/26/comments.html</id>
     <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-02-26T13:24:17-06:00</updated>
+    <updated>2014-03-29T09:49:23-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h1 id="our-blog-allows-comments"&gt;Our Blog Allows Comments!&lt;/h1&gt;
 
-&lt;p&gt;Ok, not exactly the blog post we &lt;b&gt;wished&lt;/b&gt; we could write today, but little steps. Eh?&lt;/p&gt;
+&lt;p&gt;Ok, not exactly the blog post we &lt;a href="/2014/01/20/live.html"&gt;wished&lt;/a&gt; we could write today, but little steps. Eh?&lt;/p&gt;
 
 &lt;p&gt;We are &lt;a href="/2013/10/08/looking-for-ux-designer.html"&gt;still looking for a designer as a partner&lt;/a&gt; and meanwhile have managed to put together a reasonably functional UX.  With a solid designer though, we think the experience would be much, much better.  So, please share this link - it would help tremendously!&lt;/p&gt;
 
@@ -34,7 +56,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
     <id>http://blog.url.com/2014/01/20/live.html</id>
     <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-02-26T13:21:16-06:00</updated>
+    <updated>2014-03-29T09:49:19-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -52,7 +74,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
     <id>http://blog.url.com/2013/12/16/getting-close.html</id>
     <published>2013-12-16T19:49:00Z</published>
-    <updated>2014-02-26T13:18:41-06:00</updated>
+    <updated>2014-03-29T09:49:19-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -70,7 +92,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/11/18/all-about-process-improvement.html"/>
     <id>http://blog.url.com/2013/11/18/all-about-process-improvement.html</id>
     <published>2013-11-18T14:10:00Z</published>
-    <updated>2014-02-26T13:18:41-06:00</updated>
+    <updated>2014-03-29T09:49:19-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -94,7 +116,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/10/08/looking-for-ux-designer.html"/>
     <id>http://blog.url.com/2013/10/08/looking-for-ux-designer.html</id>
     <published>2013-10-08T12:13:00Z</published>
-    <updated>2014-02-26T13:18:41-06:00</updated>
+    <updated>2014-03-29T09:49:23-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -105,26 +127,6 @@
 &lt;p&gt;So now we're a bit stuck as neither of us is good with design nor UX.&lt;/p&gt;
 
 &lt;p&gt;We're looking for someone who has interest in the vision of helping organizations improve.  Someone who is able to join as an &lt;b&gt;equity partner&lt;/b&gt; as this is a non-paying gig.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The Checklist Manifesto</title>
-    <link rel="alternate" href="http://blog.url.com/2013/08/07/the-checklist-manifesto.html"/>
-    <id>http://blog.url.com/2013/08/07/the-checklist-manifesto.html</id>
-    <published>2013-08-07T22:18:00Z</published>
-    <updated>2014-02-26T13:18:41-06:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="the-checklist-manifesto"&gt;The Checklist Manifesto&lt;/h1&gt;
-
-&lt;p&gt;Earlier this year &lt;a href="http://m5rk.github.io"&gt;Mark&lt;/a&gt; and &lt;a href="http://wiscodude.github.io"&gt;I&lt;/a&gt; read &lt;a href="https://www.google.com/search?q=the+checklist+manifesto"&gt;The Checklist Manifesto&lt;/a&gt; and both of us searched around the internet for apps that help organizations &lt;b&gt;specifically&lt;/b&gt; with checklists for organizations performing recurring processes.  We didn't find any.&lt;/p&gt;
-
-&lt;p&gt;So….we're building one.  And that's what we intend for &lt;a href="http://manifest.ly"&gt;Manifestly&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.google.com/search?q=the+checklist+manifesto"&gt;&lt;img src="/images/checklist_manifesto.jpg" width="400px" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
