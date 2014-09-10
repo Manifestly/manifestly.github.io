@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2014-09-10T12:57:29-05:00</updated>
+    <updated>2014-09-10T16:41:52-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -30,7 +30,30 @@
   &lt;p&gt;A major league team might have a checklist to use before acquiring any player in trade, for example – looking at recent reports and game logs to make sure he’s not injured, talking to a former coach or teammate to ensure there’s no character issues, etc. A well-designed blank scouting report is itself a checklist, a way of organizating information to also force the scout to answer the most important questions on each player.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;We agree! This could be part of an organizations more disciplined approach to data capture and analysis.  Making hiring (drafting) mistakes is very costly to any organization.  Anyone who has read or watched &lt;a href="http://en.wikipedia.org/wiki/Moneyball"&gt;Moneyball&lt;/a&gt; knows the importance of data in winning at the game of baseball.&lt;/p&gt;
+&lt;p&gt;We agree! This could be part of an organization's more disciplined approach to data capture and analysis.  We've known for a long time that hiring (drafting) mistakes are very costly to any organization.  Anyone who has read or watched &lt;a href="http://en.wikipedia.org/wiki/Moneyball"&gt;Moneyball&lt;/a&gt; knows the importance of data in winning at the game of baseball.&lt;/p&gt;
+
+&lt;p&gt;You can read Keith's full article on &lt;a href="http://meadowparty.com/blog/2014/06/11/the-checklist-manifesto/"&gt;checklists and baseball here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Restaurant Beta Users</title>
+    <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
+    <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
+    <published>2014-06-02T16:20:00Z</published>
+    <updated>2014-09-10T16:56:52-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="restaurant-beta-users-we-need-you"&gt;Restaurant Beta Users, We Need You&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/The-Roman-Candle-Logo.png" align="right" /&gt;
+We've been working on the use of checklists in restauratns with &lt;a href="http://theromancandle.com"&gt;The Roman Candle&lt;/a&gt;. TRC has been using Manifestly on their admin checklists and they're very happy thus far.&lt;/p&gt;
+
+&lt;p&gt;There are many processes within restaurants that are golden opportunities for checklists, Daily Store Opening, Closing, Weekly reviews can all be better performed with a checklist software system like Manifestly.  We're excited to be working with TRC as they grow to more stores in Wisconsin and we congratulate them on their &lt;a href="http://theromancandle.com/milwaukee/"&gt;new restaurant in Milwaukee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For any other restaurants, for a limited time we're offering our checklist service for free.  Forever.  Just contact us at &lt;a href="mailto:support@manifest.ly"&gt;support@manifest.ly&lt;/a&gt; to get started on using software to manage your &lt;a href="https://www.manifest.ly"&gt;restaurant checklists&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
@@ -40,7 +63,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
     <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
     <published>2014-03-20T11:25:00Z</published>
-    <updated>2014-03-29T11:18:04-05:00</updated>
+    <updated>2014-09-10T16:39:39-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -62,7 +85,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
     <id>http://blog.url.com/2014/02/26/comments.html</id>
     <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-03-29T11:18:04-05:00</updated>
+    <updated>2014-09-10T16:39:39-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -82,7 +105,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
     <id>http://blog.url.com/2014/01/20/live.html</id>
     <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-03-29T11:18:04-05:00</updated>
+    <updated>2014-09-10T16:39:39-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -100,7 +123,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
     <id>http://blog.url.com/2013/12/16/getting-close.html</id>
     <published>2013-12-16T19:49:00Z</published>
-    <updated>2014-03-29T11:18:04-05:00</updated>
+    <updated>2014-09-10T16:39:39-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -109,30 +132,6 @@
 &lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;.  The last few features and tightening of the application always take much longer than expected, but we feel like we're getting really close.  Our intern Zach has helped us implement a few things, and that's been great.&lt;/p&gt;
 
 &lt;p&gt;We still don't have a designer, so Philip has taken the reigns in order for us to go live. Although the design is not great, it'll need to be &lt;b&gt;good enough for the MVP&lt;/b&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>All About Process Improvement</title>
-    <link rel="alternate" href="http://blog.url.com/2013/11/18/all-about-process-improvement.html"/>
-    <id>http://blog.url.com/2013/11/18/all-about-process-improvement.html</id>
-    <published>2013-11-18T14:10:00Z</published>
-    <updated>2014-03-29T11:18:04-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="all-about-process-improvement"&gt;All About Process Improvement&lt;/h1&gt;
-
-&lt;p&gt;We've spent several months talking with organizations about what would interest them in a checklist app.  Anyone who's gone through this process knows how difficult this is because every organization has their own specific needs.  &lt;b&gt;Building something for everyone is a terrible mistake&lt;/b&gt; a startup can make, so figuring out the target of what are the core features for a core group of customers is indeed the million dollar question.&lt;/p&gt;
-
-&lt;p&gt;And it's difficult.&lt;/p&gt;
-
-&lt;h3 id="plan-do-check-act"&gt;Plan, Do, Check, Act&lt;/h3&gt;
-
-&lt;p&gt;With that said, it's clear the most important aspect of checklists is that organizations use them as part of a &lt;b&gt;Process of Continuous Improvement&lt;/b&gt;.  Which is exactly the main theme from Atul Gawande's book.&lt;/p&gt;
-
-&lt;p&gt;One of the key's to process improvement is good process feedback.  The whole &lt;b&gt;&lt;a href="http://en.wikipedia.org/wiki/PDCA"&gt;Plan, Do, Check, Act&lt;/a&gt;&lt;/b&gt; cycle (W. Edwards Deming).  Checklists can be a great tool for gathering data as well as communicating process changes to those involved in the process.  And we're focused on enabling that.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
