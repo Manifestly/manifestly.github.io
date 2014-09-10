@@ -5,16 +5,42 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-03-20T11:25:00Z</updated>
+  <updated>2014-08-22T16:20:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Checklists in Baseball</title>
+    <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
+    <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
+    <published>2014-08-22T16:20:00Z</published>
+    <updated>2014-09-10T12:57:29-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="can-checklists-help-baseball-teams"&gt;Can Checklists Help Baseball Teams?&lt;/h1&gt;
+
+&lt;p&gt;Well, Keith Law, &lt;a href="http://search.espn.go.com/keith-law"&gt;Senior Baseball Writer at ESPN.com&lt;/a&gt; thinks they might.&lt;/p&gt;
+
+&lt;p&gt;Keith is a &lt;a href="http://meadowparty.com/blog/2014/06/11/the-checklist-manifesto/"&gt;big fan of checklists&lt;/a&gt; and writes about them on his personal blog. He discovered the &lt;a href="http://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW"&gt;Checklist Manifesto&lt;/a&gt; by reading &lt;a href="http://www.amazon.com/exec/obidos/ASIN/B00555X8OA/"&gt;Thinking, Fast and Slow&lt;/a&gt; - another excellent book we recommend.&lt;/p&gt;
+
+&lt;p&gt;He says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A major league team might have a checklist to use before acquiring any player in trade, for example – looking at recent reports and game logs to make sure he’s not injured, talking to a former coach or teammate to ensure there’s no character issues, etc. A well-designed blank scouting report is itself a checklist, a way of organizating information to also force the scout to answer the most important questions on each player.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We agree! This could be part of an organizations more disciplined approach to data capture and analysis.  Making hiring (drafting) mistakes is very costly to any organization.  Anyone who has read or watched &lt;a href="http://en.wikipedia.org/wiki/Moneyball"&gt;Moneyball&lt;/a&gt; knows the importance of data in winning at the game of baseball.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>New 'Explainer' Video</title>
     <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
     <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
     <published>2014-03-20T11:25:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
+    <updated>2014-03-29T11:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -36,7 +62,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
     <id>http://blog.url.com/2014/02/26/comments.html</id>
     <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
+    <updated>2014-03-29T11:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -56,7 +82,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
     <id>http://blog.url.com/2014/01/20/live.html</id>
     <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
+    <updated>2014-03-29T11:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -74,7 +100,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
     <id>http://blog.url.com/2013/12/16/getting-close.html</id>
     <published>2013-12-16T19:49:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
+    <updated>2014-03-29T11:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -92,7 +118,7 @@
     <link rel="alternate" href="http://blog.url.com/2013/11/18/all-about-process-improvement.html"/>
     <id>http://blog.url.com/2013/11/18/all-about-process-improvement.html</id>
     <published>2013-11-18T14:10:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
+    <updated>2014-03-29T11:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -107,26 +133,6 @@
 &lt;p&gt;With that said, it's clear the most important aspect of checklists is that organizations use them as part of a &lt;b&gt;Process of Continuous Improvement&lt;/b&gt;.  Which is exactly the main theme from Atul Gawande's book.&lt;/p&gt;
 
 &lt;p&gt;One of the key's to process improvement is good process feedback.  The whole &lt;b&gt;&lt;a href="http://en.wikipedia.org/wiki/PDCA"&gt;Plan, Do, Check, Act&lt;/a&gt;&lt;/b&gt; cycle (W. Edwards Deming).  Checklists can be a great tool for gathering data as well as communicating process changes to those involved in the process.  And we're focused on enabling that.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Looking for a UX Designer</title>
-    <link rel="alternate" href="http://blog.url.com/2013/10/08/looking-for-ux-designer.html"/>
-    <id>http://blog.url.com/2013/10/08/looking-for-ux-designer.html</id>
-    <published>2013-10-08T12:13:00Z</published>
-    <updated>2014-03-29T10:50:54-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="looking-for-a-ux-designer"&gt;Looking for a UX Designer&lt;/h1&gt;
-
-&lt;p&gt;Hey, Mark and I are looking for a UX designer to join us.  Our partner in that work (Aaron) had to bow out due to his work and family obligations.  He is a great dude and designer and we were looking forward to his work.&lt;/p&gt;
-
-&lt;p&gt;So now we're a bit stuck as neither of us is good with design nor UX.&lt;/p&gt;
-
-&lt;p&gt;We're looking for someone who has interest in the vision of helping organizations improve.  Someone who is able to join as an &lt;b&gt;equity partner&lt;/b&gt; as this is a non-paying gig.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
