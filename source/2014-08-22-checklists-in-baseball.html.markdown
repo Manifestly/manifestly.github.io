@@ -14,6 +14,8 @@ He says:
 
 > A major league team might have a checklist to use before acquiring any player in trade, for example – looking at recent reports and game logs to make sure he’s not injured, talking to a former coach or teammate to ensure there’s no character issues, etc. A well-designed blank scouting report is itself a checklist, a way of organizating information to also force the scout to answer the most important questions on each player.
 
-We agree! This could be part of an organizations more disciplined approach to data capture and analysis.  Making hiring (drafting) mistakes is very costly to any organization.  Anyone who has read or watched <a href="http://en.wikipedia.org/wiki/Moneyball">Moneyball</a> knows the importance of data in winning at the game of baseball.
+We agree! This could be part of an organization's more disciplined approach to data capture and analysis.  We've known for a long time that hiring (drafting) mistakes are very costly to any organization.  Anyone who has read or watched <a href="http://en.wikipedia.org/wiki/Moneyball">Moneyball</a> knows the importance of data in winning at the game of baseball.
+
+You can read Keith's full article on <a href="http://meadowparty.com/blog/2014/06/11/the-checklist-manifesto/">checklists and baseball here</a>.
 
 ***
