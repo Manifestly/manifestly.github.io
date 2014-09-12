@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2014-09-10T16:41:52-05:00</updated>
+    <updated>2014-09-12T14:21:45-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -42,14 +42,14 @@
     <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
     <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
     <published>2014-06-02T16:20:00Z</published>
-    <updated>2014-09-10T16:56:52-05:00</updated>
+    <updated>2014-09-12T14:21:47-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h1 id="restaurant-beta-users-we-need-you"&gt;Restaurant Beta Users, We Need You&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/The-Roman-Candle-Logo.png" align="right" /&gt;
-We've been working on the use of checklists in restauratns with &lt;a href="http://theromancandle.com"&gt;The Roman Candle&lt;/a&gt;. TRC has been using Manifestly on their admin checklists and they're very happy thus far.&lt;/p&gt;
+We've been working on the use of checklists in restaurants with &lt;a href="http://theromancandle.com"&gt;The Roman Candle&lt;/a&gt;. TRC has been using Manifestly on their admin checklists and they're very happy thus far.&lt;/p&gt;
 
 &lt;p&gt;There are many processes within restaurants that are golden opportunities for checklists, Daily Store Opening, Closing, Weekly reviews can all be better performed with a checklist software system like Manifestly.  We're excited to be working with TRC as they grow to more stores in Wisconsin and we congratulate them on their &lt;a href="http://theromancandle.com/milwaukee/"&gt;new restaurant in Milwaukee&lt;/a&gt;.&lt;/p&gt;
 
@@ -59,11 +59,33 @@ We've been working on the use of checklists in restauratns with &lt;a href="http
 </content>
   </entry>
   <entry>
+    <title>Scheduling Checklist Runs</title>
+    <link rel="alternate" href="http://blog.url.com/2014/05/12/scheduling-checklist-runs.html"/>
+    <id>http://blog.url.com/2014/05/12/scheduling-checklist-runs.html</id>
+    <published>2014-05-12T19:32:00Z</published>
+    <updated>2014-09-12T15:34:07-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="new-feature-scheduling-checklist-runs"&gt;New Feature: Scheduling Checklist Runs&lt;/h1&gt;
+
+&lt;p&gt;We have a new feature that allows you to schedule your checklist runs. This is great if you have checklists that recur on any kind of schedule, whether it is daily, weekly, monthly - any kind of schedule can be set.  3rd Thursday?  No problem.  Last day of the month?  You bet.  Every other Tuesday?  Yep!&lt;/p&gt;
+
+&lt;p&gt;We have a few companies using this feature and we're quite sure most customers will find value from this ability.&lt;/p&gt;
+
+&lt;p&gt;You can add a new &lt;a href="https://www.manifest.ly/scheduled_runs"&gt;scheduled checklist&lt;/a&gt; here if you are signed into your Manifestly account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/screen-shot-scheduled-runs.png" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
     <title>New 'Explainer' Video</title>
     <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
     <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
     <published>2014-03-20T11:25:00Z</published>
-    <updated>2014-09-10T16:39:39-05:00</updated>
+    <updated>2014-09-12T14:21:45-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -85,7 +107,7 @@ We've been working on the use of checklists in restauratns with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
     <id>http://blog.url.com/2014/02/26/comments.html</id>
     <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-09-10T16:39:39-05:00</updated>
+    <updated>2014-09-12T14:21:45-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -105,7 +127,7 @@ We've been working on the use of checklists in restauratns with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
     <id>http://blog.url.com/2014/01/20/live.html</id>
     <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-09-10T16:39:39-05:00</updated>
+    <updated>2014-09-12T14:21:45-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -114,24 +136,6 @@ We've been working on the use of checklists in restauratns with &lt;a href="http
 &lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;!  &lt;a href="http://manifest.ly"&gt;We're live&lt;/a&gt;, but we're going to be quiet about things for just a bit.  Too much of the experience is not quite up to our expectations.&lt;/p&gt;
 
 &lt;p&gt;A few more weeks and we should be good to go with the MVP.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>We're Getting Close</title>
-    <link rel="alternate" href="http://blog.url.com/2013/12/16/getting-close.html"/>
-    <id>http://blog.url.com/2013/12/16/getting-close.html</id>
-    <published>2013-12-16T19:49:00Z</published>
-    <updated>2014-09-10T16:39:39-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="were-getting-close"&gt;We're Getting Close&lt;/h1&gt;
-
-&lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;.  The last few features and tightening of the application always take much longer than expected, but we feel like we're getting really close.  Our intern Zach has helped us implement a few things, and that's been great.&lt;/p&gt;
-
-&lt;p&gt;We still don't have a designer, so Philip has taken the reigns in order for us to go live. Although the design is not great, it'll need to be &lt;b&gt;good enough for the MVP&lt;/b&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
