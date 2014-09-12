@@ -17,7 +17,7 @@
 4.  Switch to master:
 
         git checkout master
-        
+
 5.  Run the update script:
 
         python update.py
@@ -25,7 +25,7 @@
 6.  Check the status:
 
         git status
-        
+
 7.  Add everything, commit, and push:
 
         git add --all
