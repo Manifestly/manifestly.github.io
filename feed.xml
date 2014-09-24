@@ -5,16 +5,69 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-08-22T16:20:00Z</updated>
+  <updated>2014-09-22T11:55:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Checklists and To-Do lists are different</title>
+    <link rel="alternate" href="http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html"/>
+    <id>http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html</id>
+    <published>2014-09-22T11:55:00Z</published>
+    <updated>2014-09-24T11:10:59-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="checklists-and-to-do-lists-are-different"&gt;Checklists and To-Do lists are different&lt;/h1&gt;
+
+&lt;p&gt;&lt;img align="right" width="200px" src="https://s3.amazonaws.com/manifestly-assets/checklist.png" /&gt;
+We talk with everyone we meet about checklists.  &lt;em&gt;Everyone&lt;/em&gt;.  What we've
+found is a common misunderstanding about the &lt;strong&gt;subtle difference&lt;/strong&gt;
+between checklists and to-do lists.&lt;/p&gt;
+
+&lt;p&gt;And if you're selling checklist software (like we are), the difference is important.&lt;/p&gt;
+
+&lt;h2 id="checklists-are-how-to-do"&gt;Checklists are &lt;strong&gt;How&lt;/strong&gt; To-Do&lt;/h2&gt;
+&lt;p&gt;Checklists are best described as an agreement in an organization on &lt;strong&gt;How to Do&lt;/strong&gt; specific (important)
+processes. They are codified "best practices" about how these processes
+&lt;em&gt;should&lt;/em&gt; be done. Examples from our customers include a
+&lt;strong&gt;Daily Store Opening&lt;/strong&gt; checklist, &lt;strong&gt;New Client&lt;/strong&gt; checklist,
+ &lt;strong&gt;Monthly Review&lt;/strong&gt; checklist, &lt;strong&gt;Listing a Property&lt;/strong&gt; checklist and others.&lt;/p&gt;
+
+&lt;h2 id="to-do-lists-are-what-to-do"&gt;To-Do lists are &lt;strong&gt;What&lt;/strong&gt; To-Do&lt;/h2&gt;
+&lt;p&gt;To-do lists, on the other hand, are unique, ephemeral (thankfully!), and ad hoc
+in nature.  They are your list (or your team's list) of &lt;strong&gt;what&lt;/strong&gt; you need to get done (today, this week, etc).
+There are tons of tools for managing to-dos.  We have used &lt;a href="https://www.rememberthemilk.com/"&gt;Remember the Milk&lt;/a&gt;,
+&lt;a href="http://www.any.do"&gt;Any.do&lt;/a&gt;, and most recently we love &lt;a href="https://keep.google.com"&gt;Google Keep&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="instance-of-a-checklist-a-run-is-a-to-do-list"&gt;Instance of a Checklist (a run) is a To-do list&lt;/h2&gt;
+&lt;p&gt;Here's where it gets interesting.  When you are &lt;strong&gt;using&lt;/strong&gt; a checklist, that is
+effectively a to-do list.  Got that?  The thing you refer to when you're building up
+a list of steps you want everyone to perform - that is a checklist.  When they use it, they're using
+the checklist, but it is acting like a to-do list since it is a list of &lt;strong&gt;what&lt;/strong&gt; to do.&lt;/p&gt;
+
+&lt;h2 id="why-does-this-matter"&gt;Why does this matter?&lt;/h2&gt;
+&lt;p&gt;It matters because checklists are an important part of &lt;strong&gt;process improvement&lt;/strong&gt; activities.
+By focusing on getting &lt;strong&gt;the right things done the right
+way&lt;/strong&gt; - the &lt;strong&gt;How&lt;/strong&gt; - checklist are quality and consistency focused.&lt;/p&gt;
+
+&lt;p&gt;To-do lists don't provide this structure, nor do to-do list software solutions
+focus on this continuous improvement process.  To-do lists focus on &lt;strong&gt;getting
+things done&lt;/strong&gt;, especially at the individual productivity level.&lt;/p&gt;
+
+&lt;p&gt;As always, if you haven't read &lt;a href="https://gawande.com/the-checklist-manifesto"&gt;The Checklist Manifesto&lt;/a&gt;,
+we often have some &lt;a href="https://www.manifest.ly/about"&gt;free Checklist Manifesto copies&lt;/a&gt;
+to give away.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Checklists in Baseball</title>
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2014-09-12T14:21:45-05:00</updated>
+    <updated>2014-09-23T16:52:21-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -42,7 +95,7 @@
     <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
     <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
     <published>2014-06-02T16:20:00Z</published>
-    <updated>2014-09-12T14:21:47-05:00</updated>
+    <updated>2014-09-23T16:52:21-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -63,7 +116,7 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/05/12/scheduling-checklist-runs.html"/>
     <id>http://blog.url.com/2014/05/12/scheduling-checklist-runs.html</id>
     <published>2014-05-12T19:32:00Z</published>
-    <updated>2014-09-12T15:34:07-05:00</updated>
+    <updated>2014-09-23T16:52:21-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -85,7 +138,7 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
     <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
     <published>2014-03-20T11:25:00Z</published>
-    <updated>2014-09-12T14:21:45-05:00</updated>
+    <updated>2014-09-23T16:52:21-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -107,7 +160,7 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
     <id>http://blog.url.com/2014/02/26/comments.html</id>
     <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-09-12T14:21:45-05:00</updated>
+    <updated>2014-09-23T16:52:21-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -118,24 +171,6 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
 &lt;p&gt;We are &lt;a href="/2013/10/08/looking-for-ux-designer.html"&gt;still looking for a designer as a partner&lt;/a&gt; and meanwhile have managed to put together a reasonably functional UX.  With a solid designer though, we think the experience would be much, much better.  So, please share this link - it would help tremendously!&lt;/p&gt;
 
 &lt;p&gt;And, we're very close to launching.  Very, very close.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>We're Live</title>
-    <link rel="alternate" href="http://blog.url.com/2014/01/20/live.html"/>
-    <id>http://blog.url.com/2014/01/20/live.html</id>
-    <published>2014-01-20T21:05:00Z</published>
-    <updated>2014-09-12T14:21:45-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="were-live"&gt;We're Live&lt;/h1&gt;
-
-&lt;p&gt;&lt;b&gt;Finally&lt;/b&gt;!  &lt;a href="http://manifest.ly"&gt;We're live&lt;/a&gt;, but we're going to be quiet about things for just a bit.  Too much of the experience is not quite up to our expectations.&lt;/p&gt;
-
-&lt;p&gt;A few more weeks and we should be good to go with the MVP.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
