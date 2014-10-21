@@ -5,16 +5,107 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-09-22T11:55:00Z</updated>
+  <updated>2014-10-20T22:12:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Our Weekly Review Checklist</title>
+    <link rel="alternate" href="http://blog.url.com/2014/10/20/our-weekly-review-checklist.html"/>
+    <id>http://blog.url.com/2014/10/20/our-weekly-review-checklist.html</id>
+    <published>2014-10-20T22:12:00Z</published>
+    <updated>2014-10-21T16:51:08-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="our-weekly-review-checklist"&gt;Our Weekly Review Checklist&lt;/h1&gt;
+&lt;p&gt;If you'd like to see or use the checklist we use each Monday for our Weekly Review, we've published it publicly &lt;a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Recurring Processes&lt;/b&gt;, that's where it's at for checklists.  At Manifestly, we have a Weekly Review process to keep track of where we are at, as a company.  Of course, this is a &lt;a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b"&gt;Weekly Review Checklist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The basics steps or our checklist (which &lt;a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b"&gt;you can copy&lt;/a&gt;) are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Review Tasks and Plans (marketing &amp;amp; dev)&lt;/li&gt;
+  &lt;li&gt;Customers &amp;amp; Analytics Review&lt;/li&gt;
+  &lt;li&gt;Blog &amp;amp; Twitter&lt;/li&gt;
+  &lt;li&gt;How Are We Feeling?&lt;/li&gt;
+  &lt;li&gt;Set Goals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We have this checklist scheduled to run every Monday at 4pm.  We both receive an email from Manifestly with a link to the checklist.  It's kinda great. ;)&lt;/p&gt;
+
+&lt;h1 id="here-are-the-tools-we-use"&gt;Here are the tools we use…&lt;/h1&gt;
+
+&lt;h2 id="google-docs"&gt;Google Docs&lt;/h2&gt;
+&lt;p&gt;Used for tracking &lt;b&gt;Stretch Goals&lt;/b&gt;, ideas for &lt;b&gt;Blog Articles&lt;/b&gt;, and &lt;b&gt;Growth Targets&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;We use google docs quite a bit.  For our weekly review, we start by reviewing our &lt;b&gt;stretch goals&lt;/b&gt; from the previous week.  We keep these stretch goals in google docs because of the simplicity (and history).&lt;/p&gt;
+
+&lt;p&gt;We also have a document for our growth targets.  We're taking a tip from a &lt;a href="http://paulgraham.com/ds.html"&gt;Paul Graham blog post&lt;/a&gt; and we're focusing on work that &lt;b&gt;does not scale&lt;/b&gt; (you read that correctly).  We have created a spreadsheet with a very slow, but consistent growth target and we're comparing our growth with these targets each week.  So far, so good.&lt;/p&gt;
+
+&lt;h2 id="trello"&gt;Trello&lt;/h2&gt;
+&lt;p&gt;We use &lt;a href="http://trello.com"&gt;Trello&lt;/a&gt; to manage our &lt;b&gt;marketing related&lt;/b&gt; tasks and plans.  Trello is a great tool for project management for teams.  We've attempted to use &lt;a href="http://asana.com"&gt;Asana&lt;/a&gt; in the past, but the simplicity of Trello won out over the more full featured Asana.&lt;/p&gt;
+
+&lt;p&gt;Some people have wondered if Trello is a competitor of Manifestly.  We don't think it is.  Trello is focused more on project management and ad hoc tasks (like our Marketing tasks), while we are &lt;b&gt;focused&lt;/b&gt; highly on simple &lt;b&gt;recurring processes&lt;/b&gt;.  There is plenty of room for both and it would be difficult to use Trello for something like a Daily Store Closing checklist. :)&lt;/p&gt;
+
+&lt;h2 id="pivotal-tracker"&gt;Pivotal Tracker&lt;/h2&gt;
+&lt;p&gt;PT is used strictly for the &lt;b&gt;software development&lt;/b&gt; aspect of our business.&lt;/p&gt;
+
+&lt;p&gt;What a great tool for software developers.  We've both been using &lt;a href="http://pivotaltracker.com"&gt;Pivotal Tracker&lt;/a&gt; for years and although there are other tools out there for tracking development tasks, we don't actually consider them when starting a new project.&lt;/p&gt;
+
+&lt;p&gt;Pivotal Tracker is just easy, solid, and known.&lt;/p&gt;
+
+&lt;p&gt;During our weekly checklist, we look at the current iteration, the backlog, and the icebox.  We keep PT stories updated continuously during the week, so this review is mostly about prioritization of stories.&lt;/p&gt;
+
+&lt;h2 id="intercom"&gt;Intercom&lt;/h2&gt;
+&lt;p&gt;Intercom is used to track &lt;b&gt;users and customers&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;I (Philip) do most of the customer interaction work for Manifestly and I cannot say enough about how great &lt;a href="http://intercom.io"&gt;Intercom&lt;/a&gt; is for web based businesses.  Really, if you have a SaaS business and aren't using Intercom, you should definitely check it out.&lt;/p&gt;
+
+&lt;p&gt;Each Monday during our weekly review, we look at our customer list in Intercom which shows data about engagement, new customers, and our onboarding messaging.  We use these facts to talk about who I will reach out to in order to help, as well as things we can do for the automated onboarding process - some of which is implemented via the &lt;a href="http://docs.intercom.io/faqs/should-i-send-auto-or-manual-message"&gt;nifty Intercom messages system&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Intercom is &lt;b&gt;fantastic&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h2 id="google-analytics"&gt;Google Analytics&lt;/h2&gt;
+&lt;p&gt;We use the goog for &lt;b&gt;analytics&lt;/b&gt; primarily because we've used it in the past and it is simple.  This is the tool we're least thrilled about.  Not because it isn't great, but more because we just don't know.&lt;/p&gt;
+
+&lt;p&gt;Thoughts and recommendations on analytics are welcome, but for the current moment most of our analytics come from actually talking directly with our users.  In the future (with some scale), I suspect a decent approach to analytics will become more important.&lt;/p&gt;
+
+&lt;p&gt;During our weekly review, we look at user flow and goals mostly.&lt;/p&gt;
+
+&lt;h2 id="middleman-and-github"&gt;Middleman and GitHub&lt;/h2&gt;
+&lt;p&gt;Our software is stored on &lt;b&gt;github&lt;/b&gt; and we use GitHub Pages for publishing our blog.  It's kinda geeky and we're looking for a more simple publishing platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt; is fantastic and &lt;a href="http://middlemanapp.com/"&gt;Middleman&lt;/a&gt; is a decent way to publish a simple blog like this.  Decent, but not great.  We're also interested in ideas for improvement.&lt;/p&gt;
+
+&lt;p&gt;For our weekly review, we look at the google document of blog ideas, add any if we think of them, and then look at the blog to check when the last post was published as well as any comments.  Our goal is 1-2 posts per month as features are released or we have something to share, like &lt;a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b"&gt;this checklist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="hootsuite"&gt;HootSuite&lt;/h2&gt;
+&lt;p&gt;We use &lt;a href="http://hootsuite.com"&gt;HootSuite&lt;/a&gt; for Twitter.  Most of our interaction on Twitter is with the Mac App, but for &lt;b&gt;scheduled tweets&lt;/b&gt; especially, we use HootStuite.&lt;/p&gt;
+
+&lt;p&gt;During our Monday review, we look at recent mentions and Twitter conversations as well as how long it has been since we last tweeted.&lt;/p&gt;
+
+&lt;h1 id="how-are-we-feeling"&gt;How Are We Feeling?&lt;/h1&gt;
+&lt;p&gt;The last steps in our weekly review are more about how we are feeling.  We discuss current mood as well as our goals moving forward and then finally we update our &lt;b&gt;stretch goals&lt;/b&gt; for the coming week.&lt;/p&gt;
+
+&lt;p&gt;This is all done over a dinner at one of Madison's great restaurants like &lt;a href="http://www.grazemadison.com/"&gt;Graze&lt;/a&gt; or a beer at the UW Memorial Union Terrace.&lt;/p&gt;
+
+&lt;p&gt;We hope this is helpful to other startups.  Our &lt;a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b"&gt;Weekly Review Checklist&lt;/a&gt; has links directly to all of these services (our accounts, but you can change those) used in our weekly review.  Feel free to "fork" it and again, any suggestions are super welcome.&lt;/p&gt;
+
+&lt;p&gt;–  Philip &amp;amp; Mark&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/Union_terrace_night96_10.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Checklists and To-Do lists are different</title>
     <link rel="alternate" href="http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html"/>
     <id>http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html</id>
     <published>2014-09-22T11:55:00Z</published>
-    <updated>2014-09-24T11:10:59-05:00</updated>
+    <updated>2014-09-24T11:14:09-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -67,7 +158,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2014-09-23T16:52:21-05:00</updated>
+    <updated>2014-09-24T11:14:09-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -95,7 +186,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
     <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
     <published>2014-06-02T16:20:00Z</published>
-    <updated>2014-09-23T16:52:21-05:00</updated>
+    <updated>2014-09-24T11:14:09-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -116,7 +207,7 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/05/12/scheduling-checklist-runs.html"/>
     <id>http://blog.url.com/2014/05/12/scheduling-checklist-runs.html</id>
     <published>2014-05-12T19:32:00Z</published>
-    <updated>2014-09-23T16:52:21-05:00</updated>
+    <updated>2014-09-24T11:14:09-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -138,7 +229,7 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
     <link rel="alternate" href="http://blog.url.com/2014/03/20/manifestly-video.html"/>
     <id>http://blog.url.com/2014/03/20/manifestly-video.html</id>
     <published>2014-03-20T11:25:00Z</published>
-    <updated>2014-09-23T16:52:21-05:00</updated>
+    <updated>2014-09-24T11:14:09-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -151,26 +242,6 @@ We've been working on the use of checklists in restaurants with &lt;a href="http
 &lt;p&gt;Here's the new video we produced.&lt;/p&gt;
 
 &lt;iframe width="560" height="315" src="//www.youtube.com/embed/rM4WdNmy7BM?rel=0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Now with comments!</title>
-    <link rel="alternate" href="http://blog.url.com/2014/02/26/comments.html"/>
-    <id>http://blog.url.com/2014/02/26/comments.html</id>
-    <published>2014-02-26T01:25:00Z</published>
-    <updated>2014-09-23T16:52:21-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="our-blog-allows-comments"&gt;Our Blog Allows Comments!&lt;/h1&gt;
-
-&lt;p&gt;Ok, not exactly the blog post we &lt;a href="/2014/01/20/live.html"&gt;wished&lt;/a&gt; we could write today, but little steps. Eh?&lt;/p&gt;
-
-&lt;p&gt;We are &lt;a href="/2013/10/08/looking-for-ux-designer.html"&gt;still looking for a designer as a partner&lt;/a&gt; and meanwhile have managed to put together a reasonably functional UX.  With a solid designer though, we think the experience would be much, much better.  So, please share this link - it would help tremendously!&lt;/p&gt;
-
-&lt;p&gt;And, we're very close to launching.  Very, very close.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
