@@ -9,7 +9,7 @@ If you'd like to see or use the checklist we use each Monday for our Weekly Revi
 
 <b>Recurring Processes</b>, that's where it's at for checklists.  At Manifestly, we have a Weekly Review process to keep track of where we are at, as a company.  Of course, this is a <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">Weekly Review Checklist</a>.
 
-The basics steps or our checklist (which <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">you can copy</a>) are:
+The basics steps of our checklist (which <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">you can copy</a>) are:
 
 * Review Tasks and Plans (marketing & dev)
 * Customers & Analytics Review
@@ -43,7 +43,7 @@ Pivotal Tracker is just easy, solid, and known.
 During our weekly checklist, we look at the current iteration, the backlog, and the icebox.  We keep PT stories updated continuously during the week, so this review is mostly about prioritization of stories.
 
 ## Intercom
-Intercom is used to track <b>users and customers</b>
+Intercom is used to track <b>users and customers</b>.
 
 I (Philip) do most of the customer interaction work for Manifestly and I cannot say enough about how great <a href="http://intercom.io">Intercom</a> is for web based businesses.  Really, if you have a SaaS business and aren't using Intercom, you should definitely check it out.
 
@@ -66,7 +66,7 @@ Our software is stored on <b>github</b> and we use GitHub Pages for publishing o
 For our weekly review, we look at the google document of blog ideas, add any if we think of them, and then look at the blog to check when the last post was published as well as any comments.  Our goal is 1-2 posts per month as features are released or we have something to share, like <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">this checklist</a>.
 
 ## HootSuite
-We use <a href="http://hootsuite.com">HootSuite</a> for Twitter.  Most of our interaction on Twitter is with the Mac App, but for <b>scheduled tweets</b> especially, we use HootStuite.
+We use <a href="http://hootsuite.com">HootSuite</a> for Twitter.  Most of our interaction on Twitter is with the Mac App, but for <b>scheduled tweets</b> especially, we use HootSuite.
 
 During our Monday review, we look at recent mentions and Twitter conversations as well as how long it has been since we last tweeted.
 
@@ -78,6 +78,8 @@ This is all done over a dinner at one of Madison's great restaurants like <a hre
 We hope this is helpful to other startups.  Our <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">Weekly Review Checklist</a> has links directly to all of these services (our accounts, but you can change those) used in our weekly review.  Feel free to "fork" it and again, any suggestions are super welcome.
 
 --  Philip & Mark
+
+ps.  This is the University of Wisconsin Memorial Union Terrace.  It's pretty great.  :)
 
 <img src="https://s3.amazonaws.com/manifestly-assets/Union_terrace_night96_10.jpg" />
 
