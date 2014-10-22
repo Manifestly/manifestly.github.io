@@ -5,9 +5,9 @@ tags: checklist, weekly review, recurring checklists
 ---
 
 # Our Weekly Review Checklist
-If you'd like to see or use the checklist we use each Monday for our Weekly Review, we've published it publicly <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">here</a>.
-
 <b>Recurring Processes</b>, that's where it's at for checklists.  At Manifestly, we have a Weekly Review process to keep track of where we are at, as a company.  Of course, this is a <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">Weekly Review Checklist</a>.
+
+If you'd like to see or use the checklist we use each Monday for our Weekly Review, we've published it publicly <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">here</a>.
 
 The basics steps of our checklist (which <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">you can copy</a>) are:
 
