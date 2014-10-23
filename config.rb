@@ -77,6 +77,8 @@ page "/feed.xml", layout: false
 #   end
 # end
 
+ignore 'article.erb'
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
