@@ -1,14 +1,15 @@
 ---
-title: Checklists in Baseball
+title: Can Checklists Help Baseball Teams?
 date: 2014-08-22 16:20 UTC
 tags: Baseball
+layout: article
 ---
-
-# Can Checklists Help Baseball Teams?
 
 Well, Keith Law, <a href="http://search.espn.go.com/keith-law">Senior Baseball Writer at ESPN.com</a> thinks they might.
 
 Keith is a <a href="http://meadowparty.com/blog/2014/06/11/the-checklist-manifesto/">big fan of checklists</a> and writes about them on his personal blog. He discovered the <a href="http://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW">Checklist Manifesto</a> by reading <a href="http://www.amazon.com/exec/obidos/ASIN/B00555X8OA/">Thinking, Fast and Slow</a> - another excellent book we recommend.
+
+READMORE
 
 He says:
 

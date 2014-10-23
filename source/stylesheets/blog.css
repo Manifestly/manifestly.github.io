@@ -11,17 +11,17 @@ p {
 hr {
   border: 0;
   width: 80%;
-  border-top: 3px solid #aaa;
-  margin: 75px auto;
+  border-top: 3px solid #eee;
+  margin: 70px auto;
   }
 h1 {
-  font-size: 26px;
+  font-size: 30px;
   font-family: 'Montserrat', sans-serif;
 }
 h2 {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
-  font-size: 19px;
+  font-size: 22px;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -77,4 +77,15 @@ footer {
 .profile img {
   width: 150px;
   height: 150px;
+}
+.article-date {
+  font-size: 1.5rem;
+  color: #aaa;
+}
+.read-more {
+  padding-right: 50px;
+}
+.next-page {
+  margin: 60px auto;
+  width: 250px;
 }

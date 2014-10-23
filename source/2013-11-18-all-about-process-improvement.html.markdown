@@ -2,11 +2,12 @@
 title: All About Process Improvement
 date: 2013-11-18 14:10 UTC
 tags: process improvement
+layout: article
 ---
 
-# All About Process Improvement
-
 We've spent several months talking with organizations about what would interest them in a checklist app.  Anyone who's gone through this process knows how difficult this is because every organization has their own specific needs.  <b>Building something for everyone is a terrible mistake</b> a startup can make, so figuring out the target of what are the core features for a core group of customers is indeed the million dollar question.
+
+READMORE
 
 And it's difficult.
 

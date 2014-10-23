@@ -8,3 +8,6 @@ gem "middleman-gh-pages"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+
+# For page summaries
+gem "nokogiri"

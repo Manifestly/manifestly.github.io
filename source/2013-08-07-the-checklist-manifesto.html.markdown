@@ -2,11 +2,12 @@
 title: The Checklist Manifesto
 date: 2013-08-07 22:18 UTC
 tags: checklist manifesto
+layout: article
 ---
 
-# The Checklist Manifesto
+Earlier this year [Mark](http://m5rk.github.io) and [I](http://wiscodude.github.io) read [The Checklist Manifesto](https://www.google.com/search?q=the+checklist+manifesto) and both of us searched around the internet for apps that help organizations <b>specifically</b> with checklists for performing <b>recurring processes</b>.  We didn't find any.
 
-Earlier this year [Mark](http://m5rk.github.io) and [I](http://wiscodude.github.io) read [The Checklist Manifesto](https://www.google.com/search?q=the+checklist+manifesto) and both of us searched around the internet for apps that help organizations <b>specifically</b> with checklists for organizations performing recurring processes.  We didn't find any.
+READMORE
 
 So....we're building one.  And that's what we intend for [Manifestly](http://manifest.ly).
 

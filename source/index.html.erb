@@ -1,25 +1,24 @@
 ---
 pageable: true
-per_page: 10
+per_page: 8
 ---
-<% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
-
-  <% if prev_page %>
-    <p><%= link_to 'Previous page', prev_page %></p>
-  <% end %>
-<% end %>
 
 <% page_articles.each_with_index do |article, i| %>
-  <h2><%= link_to article.title, article %></h2>
-  <div style="font-size: 13px; margin-bottom: 5px;"><%= article.date.strftime('%B %d, %Y') %></div
+
+  <div class="article-date"><%= article.date.strftime('%B %d, %Y') %></div
   <!-- use article.summary(250) if you have Nokogiri available to show just
        the first 250 characters -->
-  <%= article.body %>
+  <h2><%= link_to article.title, article %></h2>
+  <%= article.summary %>
+  <p class="read-more"><%= link_to 'read more...', article %></p>
+    <hr />
 <% end %>
 
 <% if paginate %>
   <% if next_page %>
-    <p><%= link_to 'Next page', next_page %></p>
+    <h2 class="next-page"><%= link_to 'Next Page &raquo;', next_page %></h2>
+  <% end %>
+  <% if prev_page %>
+    <h2 class="next-page"><%= link_to '&laquo; Previous Page', prev_page %></h2>
   <% end %>
 <% end %>

@@ -2,18 +2,17 @@
 title: Checklists and To-Do lists are different
 date: 2014-09-22 11:55 UTC
 tags: checklist, to-do list, process improvement
+layout: article
 ---
 
-# Checklists and To-Do lists are different
 
-
-<img align="right" width="200px" src="https://s3.amazonaws.com/manifestly-assets/checklist.png" />
 We talk with everyone we meet about checklists.  *Everyone*.  What we've
 found is a common misunderstanding about the **subtle difference**
-between checklists and to-do lists.
+between checklists and to-do lists. And if you're selling checklist software (like we are), the difference is important.
 
-And if you're selling checklist software (like we are), the difference is important.
+READMORE
 
+<img align="right" width="200px" src="https://s3.amazonaws.com/manifestly-assets/checklist.png" />
 
 ## Checklists are **How** To-Do
 Checklists are best described as an agreement in an organization on **How to Do** specific (important)

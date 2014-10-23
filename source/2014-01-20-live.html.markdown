@@ -1,11 +1,13 @@
 ---
 title: We're Live
 date: 2014-01-20 21:05 UTC
+layout: article
 ---
 
-# We're Live
-
 <b>Finally</b>!  <a href="http://manifest.ly">We're live</a>, but we're going to be quiet about things for just a bit.  Too much of the experience is not quite up to our expectations.
+
+READMORE
+
 
 A few more weeks and we should be good to go with the MVP.
 
