@@ -1,17 +1,17 @@
 ---
-title: Our Weekly Review Checklist
+title: Weekly Review Checklist for a SaaS Startup
 date: 2014-10-20 22:12 UTC
 tags: checklist, weekly review, recurring checklists
 layout: article
 ---
 
-<b>Recurring Processes</b>, that's where it's at for checklists.  At Manifestly, we have a Weekly Review process to keep track of how we are doing as a company.  Of course, this is a <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">Weekly Review Checklist</a> and we've made it available to everyone.
+As a **SaaS startup**, we need to continually make sure we're working on **the most important things**.  And so, we have a weekly checklist to keep us focused and ensure we're moving forward on marketing, customer support, features, and financial goals.
+
+We've published it here: <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">SaaS Weekly Review Checklist</a> and made it available to anyone.
 
 READMORE
 
-If you'd like to see or use the checklist we use each Monday for our Weekly Review, <b>we've published it</b> publicly <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">here</a>.
-
-The basics steps of our checklist (which <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">you can copy</a>) are:
+**The basics steps of our checklist (which <a href="https://www.manifest.ly/public/checklists/8d29833cdfdd634b41623c2e5abf511b">you can copy</a>) are:**
 
 * Review Tasks and Plans (marketing & dev)
 * Customers & Analytics Review
@@ -19,7 +19,7 @@ The basics steps of our checklist (which <a href="https://www.manifest.ly/public
 * How Are We Feeling?
 * Set Goals
 
-We have this checklist scheduled to run every Monday at 4pm.  We both receive an email from Manifestly with a link to the checklist.  It's kinda great. ;)
+We have this checklist scheduled to run every Monday at 4pm.  Mark & I both receive an email from Manifestly with a link to the checklist.  It's kinda great. ;)
 
 # Here are the 7 tools we use...
 
