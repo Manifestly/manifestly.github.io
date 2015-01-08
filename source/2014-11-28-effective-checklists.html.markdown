@@ -1,5 +1,5 @@
 ---
-title: Effective Checklists
+title: What Makes a Checklist Effective?
 date: 2014-11-28 23:31 UTC
 tags: checklist, recurring checklists, effective
 layout: article
