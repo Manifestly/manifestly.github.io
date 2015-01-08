@@ -8,6 +8,11 @@ body {
 p {
   font-family: 'Lora', serif;
 }
+blockquote {
+  font-style: italic;
+  width: 75%;
+  margin: 10px auto;
+}
 hr {
   border: 0;
   width: 80%;

@@ -5,16 +5,90 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-11-28T23:31:00Z</updated>
+  <updated>2015-01-04T14:31:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Effective Checklists</title>
+    <title>Checklists as a Continuous Improvement Tool</title>
+    <link rel="alternate" href="http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html"/>
+    <id>http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html</id>
+    <published>2015-01-04T14:31:00Z</published>
+    <updated>2015-01-08T14:52:30-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Many people write about using checklists as a &lt;strong&gt;one-way process&lt;/strong&gt;, like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/use_checklist_basic.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where the role of a checklist is to &lt;strong&gt;ensure conformance&lt;/strong&gt; to the desired process, usually determined by people other than those using the checklist.&lt;/p&gt;
+
+&lt;p&gt;This one-way communication is missing out on a valuable opportunity to engage people who are using the checklist to &lt;strong&gt;provide ideas for improvement&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="plan--do--check--act"&gt;Plan &amp;gt; Do &amp;gt; Check &amp;gt; Act&lt;/h2&gt;
+&lt;p&gt;Most people are familiar with the &lt;a href="http://en.wikipedia.org/wiki/PDCA"&gt;Plan&amp;gt;Do&amp;gt;Check&amp;gt;Act&lt;/a&gt; continuous improvement process made popular by W. Edwards Deming.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/2000px-PDCA_Cycle.svg.png" width="400px" /&gt;&lt;/p&gt;
+
+&lt;h3 id="its-continuous"&gt;It's Continuous&lt;/h3&gt;
+&lt;p&gt;The most obvious difference PDCA has from the diagram at the top of this post is that it is &lt;strong&gt;continuous&lt;/strong&gt; and benefits from &lt;strong&gt;iterations&lt;/strong&gt; of doing and analyzing.&lt;/p&gt;
+
+&lt;h2 id="six-sigma"&gt;Six Sigma&lt;/h2&gt;
+&lt;p&gt;A more recently developed process improvement methodology is &lt;a href="http://en.wikipedia.org/wiki/Six_Sigma"&gt;Six Sigma&lt;/a&gt; and is data driven approach to &lt;em&gt;eliminating defects in any process&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/sixsigma.jpg" width="400px" /&gt;&lt;/p&gt;
+
+&lt;h3 id="iterative"&gt;Iterative!&lt;/h3&gt;
+&lt;p&gt;Again of note is the &lt;strong&gt;continuous cycle of improvement&lt;/strong&gt; and analysis built into this methodology.&lt;/p&gt;
+
+&lt;h2 id="iterations-iterations-iterations"&gt;Iterations, Iterations, Iterations&lt;/h2&gt;
+&lt;p&gt;As with building software, iterations are the key to creating useful checklists.  Here's what Atul Gawande said about the first version of the famous surgery checklist.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The checklist was too long. It was unclear. And past a certain point, it was starting to feel like a distraction from the person we had on the table.
+By the end of the day, we had stopped using the checklist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Several versions later however the surgery checklist became a world wide hospital tool and the &lt;a href="http://www.npr.org/templates/story/story.php?storyId=122226184"&gt;average number of complications and deaths dipped by 35 percent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So what is the best way to gather ideas to be used in a continuous improvement process?  &lt;strong&gt;Ask questions&lt;/strong&gt;.  And &lt;a href="/2014/11/28/effective-checklists.html"&gt;questions are an idicator of a good checklist&lt;/a&gt; as we wrote in our "Effective Checklists" article.&lt;/p&gt;
+
+&lt;h2 id="explicitly-ask-for-ideas"&gt;Explicitly Ask For Ideas&lt;/h2&gt;
+&lt;p&gt;All checklists should end with the same step.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h1 id="do-you-have-ideas-for-improving-this-process"&gt;Do you have ideas for improving this process?&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With this simple step at the end of your checklists, you will gather more and better ideas for process improvement as well as signal to your staff that their ideas matter (and so does the checklist).&lt;/p&gt;
+
+&lt;h2 id="good-checklists-respect--engage"&gt;Good Checklists Respect &amp;amp; Engage&lt;/h2&gt;
+
+&lt;p&gt;Some final thoughts on checklists from the &lt;a href="http://atulgawande.com/book/the-checklist-manifesto/"&gt;Checklist Manifesto&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="good-checklists"&gt;Good checklists&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“… do not try to spell out everything – a checklist cannot fly a plane.  Instead, they provide reminders of only the most critical and important steps.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="bad-checklists"&gt;Bad checklists&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“They treat people using the tools as dumb and try to spell out every single step.  They turn people’s brains off rather than turn them on.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>What Makes a Checklist Effective?</title>
     <link rel="alternate" href="http://blog.url.com/2014/11/28/effective-checklists.html"/>
     <id>http://blog.url.com/2014/11/28/effective-checklists.html</id>
     <published>2014-11-28T23:31:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
+    <updated>2015-01-07T12:41:53-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -97,7 +171,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/10/20/our-weekly-review-checklist.html"/>
     <id>http://blog.url.com/2014/10/20/our-weekly-review-checklist.html</id>
     <published>2014-10-20T22:12:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
+    <updated>2014-12-16T15:00:22-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -189,7 +263,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html"/>
     <id>http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html</id>
     <published>2014-09-22T11:55:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
+    <updated>2014-12-16T15:00:22-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -241,7 +315,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
+    <updated>2014-12-16T15:00:22-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -269,7 +343,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
     <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
     <published>2014-06-02T16:20:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
+    <updated>2014-12-16T15:00:22-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -281,28 +355,6 @@ to give away.&lt;/p&gt;
 There are many processes within restaurants that are golden opportunities for checklists, Daily Store Opening, Closing, Weekly reviews can all be better performed with a checklist software system like Manifestly.  We're excited to be working with TRC as they grow to more stores in Wisconsin and we congratulate them on their &lt;a href="http://theromancandle.com/milwaukee/"&gt;new restaurant in Milwaukee&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For any other restaurants, for a limited time we're offering our checklist service for free.  Forever.  Just contact us at &lt;a href="mailto:support@manifest.ly"&gt;support@manifest.ly&lt;/a&gt; to get started on using software to manage your &lt;a href="https://www.manifest.ly"&gt;restaurant checklists&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>New Feature, Scheduling Checklist Runs</title>
-    <link rel="alternate" href="http://blog.url.com/2014/05/12/scheduling-checklist-runs.html"/>
-    <id>http://blog.url.com/2014/05/12/scheduling-checklist-runs.html</id>
-    <published>2014-05-12T19:32:00Z</published>
-    <updated>2014-12-16T14:28:19-06:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;We have a new feature that allows you to schedule your checklist runs. This is great if you have checklists that recur on any kind of schedule, whether it is daily, weekly, monthly - any kind of schedule can be set.  3rd Thursday?  No problem.  Last day of the month?  You bet.  Every other Tuesday?  Yep!&lt;/p&gt;
-
-&lt;p&gt;We have a few companies using this feature and we're quite sure most customers will find value from this ability.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;You can add a new &lt;a href="https://www.manifest.ly/scheduled_runs"&gt;scheduled checklist&lt;/a&gt; here if you are signed into your Manifestly account.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/screen-shot-scheduled-runs.png" /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
