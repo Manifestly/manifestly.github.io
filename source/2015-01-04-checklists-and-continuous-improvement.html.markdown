@@ -40,7 +40,7 @@ As with building software, iterations are the key to creating useful checklists.
 
 Several versions later however the surgery checklist became a world wide hospital tool and the [average number of complications and deaths dipped by 35 percent](http://www.npr.org/templates/story/story.php?storyId=122226184).
 
-So what is the best way to gather ideas to be used in a continuous improvement process?  **Ask questions**.  And [questions are an idicator of a good checklist](/2014/11/28/effective-checklists.html) as we wrote in our "Effective Checklists" article.
+So what is the best way to gather ideas to be used in a continuous improvement process?  **Ask questions**.  And [questions are an indicator of a good checklist](/2014/11/28/effective-checklists.html) as we wrote in our "Effective Checklists" article.
 
 ## Explicitly Ask For Ideas
 All checklists should end with the same step.
