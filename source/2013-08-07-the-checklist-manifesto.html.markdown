@@ -1,7 +1,7 @@
 ---
 title: The Checklist Manifesto
 date: 2013-08-07 22:18 UTC
-tags: checklist manifesto
+tags: Checklist Manifesto
 layout: article
 ---
 

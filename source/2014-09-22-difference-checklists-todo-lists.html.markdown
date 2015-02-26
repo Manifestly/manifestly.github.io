@@ -1,7 +1,7 @@
 ---
 title: Checklists and To-Do lists are different
 date: 2014-09-22 11:55 UTC
-tags: checklist, to-do list, process improvement
+tags: Checklist Best Practices, Process Improvement
 layout: article
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: New Feature, Scheduling Checklist Runs
 date: 2014-05-12 19:32 UTC
-tags: schedule, recurring checklists
+tags: News, Recurring Checklists
 layout: article
 ---
 

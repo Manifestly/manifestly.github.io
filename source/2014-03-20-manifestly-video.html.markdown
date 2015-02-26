@@ -1,7 +1,7 @@
 ---
 title: New 'Explainer' Video
 date: 2014-03-20 11:25 UTC
-tags: UX
+tags: News
 layout: article
 ---
 

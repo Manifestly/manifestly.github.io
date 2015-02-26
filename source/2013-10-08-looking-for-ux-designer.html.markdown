@@ -1,7 +1,7 @@
 ---
 title: Looking for a UX Designer
 date: 2013-10-08 12:13 UTC
-tags: help, UX
+tags: News
 layout: article
 ---
 

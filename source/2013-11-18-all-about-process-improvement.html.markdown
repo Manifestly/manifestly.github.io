@@ -1,7 +1,7 @@
 ---
 title: All About Process Improvement
 date: 2013-11-18 14:10 UTC
-tags: process improvement
+tags: Checklist Best Practices, Process Improvement
 layout: article
 ---
 

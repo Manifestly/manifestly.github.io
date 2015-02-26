@@ -1,7 +1,7 @@
 ---
 title: Checklists as a Continuous Improvement Tool
 date: 2015-01-04 14:31 UTC
-tags: checklist, process improvement, six sigma, PDCA, continuous improvement
+tags: Checklist Best Practices, Process Improvement
 layout: article
 ---
 

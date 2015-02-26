@@ -1,7 +1,7 @@
 ---
 title: Can Checklists Help Baseball Teams?
 date: 2014-08-22 16:20 UTC
-tags: Baseball
+tags: Other
 layout: article
 ---
 

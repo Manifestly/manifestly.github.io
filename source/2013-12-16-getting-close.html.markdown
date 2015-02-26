@@ -1,7 +1,7 @@
 ---
 title: We're Getting Close
 date: 2013-12-16 19:49 UTC
-tags: help
+tags:
 layout: article
 ---
 

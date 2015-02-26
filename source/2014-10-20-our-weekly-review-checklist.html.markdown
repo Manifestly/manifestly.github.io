@@ -1,7 +1,7 @@
 ---
 title: Weekly Review Checklist for a SaaS Startup
 date: 2014-10-20 22:12 UTC
-tags: checklist, weekly review, recurring checklists
+tags: Development Teams, Recurring Checklists
 layout: article
 ---
 

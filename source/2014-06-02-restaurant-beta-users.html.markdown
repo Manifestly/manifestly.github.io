@@ -1,7 +1,7 @@
 ---
 title: Restaurant Beta Users
 date: 2014-06-02 16:20 UTC
-tags: Restaurants
+tags: Restaurants, News
 layout: article
 ---
 
