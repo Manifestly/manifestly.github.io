@@ -20,9 +20,10 @@ hr {
   margin: 70px auto;
   }
 h1 {
-  font-size: 30px;
+  font-size: 42px;
   font-family: 'Montserrat', sans-serif;
 }
+
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 26px;
@@ -86,6 +87,9 @@ footer {
   font-size: 1.3rem;
   color: #aaa;
 }
+h1.article-title {
+  font-size: 32px;
+}
 .read-more {
   margin-right: 50px;
   padding: 4px 22px;
@@ -99,3 +103,5 @@ footer {
   margin: 60px auto;
   width: 250px;
 }
+.integrations img { margin: 2px 5px;}
+.zapier-logos img { height: 35px; margin: 5px;}

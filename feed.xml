@@ -5,16 +5,89 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-04T14:31:00Z</updated>
+  <updated>2015-02-28T21:12:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Third Party Integrations, Now in Beta</title>
+    <link rel="alternate" href="http://blog.url.com/2015/02/28/third-party-integrations-beta.html"/>
+    <id>http://blog.url.com/2015/02/28/third-party-integrations-beta.html</id>
+    <published>2015-02-28T21:12:00Z</published>
+    <updated>2015-03-01T09:57:56-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;We now have integrations with many other services, including the following:&lt;/p&gt;
+
+&lt;div class="integrations"&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/highrise.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/eventbrite.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/salesforce.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/survey_monkey.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/stripe.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/intercom.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/lighthouse.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/github.png" /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id="zapier"&gt;Zapier&lt;/h2&gt;
+
+&lt;p&gt;Manifestly has partnered with &lt;a href="http://zapier.com"&gt;Zapier&lt;/a&gt; to provide integrations between many popular web sites and Manifestly. There are now &lt;strong&gt;over 300 services&lt;/strong&gt; you can use as triggers for running manifestly checklists.&lt;/p&gt;
+
+&lt;h2 id="how-it-works"&gt;How it Works&lt;/h2&gt;
+
+&lt;p&gt;Zapier works based on triggers and actions.  You can connect any number of services, including SalesForce, GitHub, Eventbrite, and hundreds of others.  Once connected, you can choose what &lt;strong&gt;triggers in those systems&lt;/strong&gt; (for example, a new order on Eventbrite) cause a &lt;strong&gt;checklist to be run&lt;/strong&gt; in Manifestly.&lt;/p&gt;
+
+&lt;div class="col-md-3 zapier-logos text-center"&gt;
+  &lt;h3&gt;An change here&lt;/h3&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/zendesk.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/intercom.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/airbrake.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/github.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/shopify.png" /&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/storenvy.png" /&gt;
+&lt;/div&gt;
+&lt;div class="row"&gt;
+  &lt;div class="col-md-3 text-center"&gt;
+  &lt;h3&gt;Causes&lt;/h3&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/arrow-right.jpg" height="80px" /&gt;
+  &lt;/div&gt;
+  &lt;div class="col-md-3 text-center"&gt;
+  &lt;h3&gt;A Checklist Run&lt;/h3&gt;
+  &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/manifestly.png" /&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+Zapier has &lt;a href="https://zapier.com/zapbook/"&gt;excellent documentation&lt;/a&gt; on using Zaps to automate your business workflows.&lt;/p&gt;
+
+&lt;h2 id="examples"&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;A new user in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/intercom.png" height="25px" /&gt; causes a checklist run in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/manifestly.png" height="25px" /&gt;&lt;/p&gt;
+
+&lt;p&gt;A new issue in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/github.png" height="25px" /&gt; causes a checklist run in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/manifestly.png" height="25px" /&gt;&lt;/p&gt;
+
+&lt;p&gt;A ticket sold in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/eventbrite.png" height="25px" /&gt; causes a checklist run in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/manifestly.png" height="25px" /&gt;&lt;/p&gt;
+
+&lt;p&gt;A product sold in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/shopify.png" height="25px" /&gt; causes a checklist run in &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/manifestly.png" height="25px" /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id="in-beta-contact-us-to-get-started"&gt;In Beta, Contact Us to get Started&lt;/h2&gt;
+
+&lt;p&gt;This features is currently in beta, so please email us at &lt;a href="mailto:support@manifest.ly"&gt;support@manifest.ly&lt;/a&gt; to get started.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Checklists as a Continuous Improvement Tool</title>
     <link rel="alternate" href="http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html"/>
     <id>http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html</id>
     <published>2015-01-04T14:31:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
+    <updated>2015-02-28T12:30:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -88,7 +161,7 @@ By the end of the day, we had stopped using the checklist.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/11/28/effective-checklists.html"/>
     <id>http://blog.url.com/2014/11/28/effective-checklists.html</id>
     <published>2014-11-28T23:31:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
+    <updated>2015-02-28T12:30:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -171,7 +244,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/10/20/our-weekly-review-checklist.html"/>
     <id>http://blog.url.com/2014/10/20/our-weekly-review-checklist.html</id>
     <published>2014-10-20T22:12:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
+    <updated>2015-02-28T12:30:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -263,7 +336,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html"/>
     <id>http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html</id>
     <published>2014-09-22T11:55:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
+    <updated>2015-02-28T12:30:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -315,7 +388,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
+    <updated>2015-02-28T12:30:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -334,27 +407,6 @@ to give away.&lt;/p&gt;
 &lt;p&gt;We agree! This could be part of an organization's more disciplined approach to data capture and analysis.  We've known for a long time that hiring (drafting) mistakes are very costly to any organization.  Anyone who has read or watched &lt;a href="http://en.wikipedia.org/wiki/Moneyball"&gt;Moneyball&lt;/a&gt; knows the importance of data in winning at the game of baseball.&lt;/p&gt;
 
 &lt;p&gt;You can read Keith's full article on &lt;a href="http://meadowparty.com/blog/2014/06/11/the-checklist-manifesto/"&gt;checklists and baseball here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Restaurant Beta Users</title>
-    <link rel="alternate" href="http://blog.url.com/2014/06/02/restaurant-beta-users.html"/>
-    <id>http://blog.url.com/2014/06/02/restaurant-beta-users.html</id>
-    <published>2014-06-02T16:20:00Z</published>
-    <updated>2015-02-26T09:59:13-06:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;We've been working on the use of checklists in restaurants with &lt;a href="http://theromancandle.com"&gt;The Roman Candle&lt;/a&gt;. TRC has been using Manifestly on their admin checklists and they're very happy thus far.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://s3.amazonaws.com/manifestly-assets/The-Roman-Candle-Logo.png" align="right" /&gt;
-There are many processes within restaurants that are golden opportunities for checklists, Daily Store Opening, Closing, Weekly reviews can all be better performed with a checklist software system like Manifestly.  We're excited to be working with TRC as they grow to more stores in Wisconsin and we congratulate them on their &lt;a href="http://theromancandle.com/milwaukee/"&gt;new restaurant in Milwaukee&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For any other restaurants, for a limited time we're offering our checklist service for free.  Forever.  Just contact us at &lt;a href="mailto:support@manifest.ly"&gt;support@manifest.ly&lt;/a&gt; to get started on using software to manage your &lt;a href="https://www.manifest.ly"&gt;restaurant checklists&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 </content>
