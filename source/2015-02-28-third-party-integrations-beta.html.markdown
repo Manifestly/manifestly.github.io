@@ -64,7 +64,7 @@ A product sold in <img src="https://s3.amazonaws.com/manifestly-assets/zapier/sh
 
 ## In Beta, Contact Us to get Started
 
-This features is currently in beta, so please email us at <a href="mailto:support@manifest.ly">support@manifest.ly</a> to get started.
+This feature is currently in beta, so please email us at <a href="mailto:support@manifest.ly">support@manifest.ly</a> to get started.
 
 
 ***
