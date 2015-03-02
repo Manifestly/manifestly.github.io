@@ -5,7 +5,7 @@ tags: News, Integrations
 layout: article
 ---
 
-We now have integrations with many other services, including the following:
+We now have integrations with many other web based software services, including the following:
 
 <div class="integrations">
   <img src="https://s3.amazonaws.com/manifestly-assets/zapier/highrise.png" />
@@ -20,16 +20,12 @@ We now have integrations with many other services, including the following:
 <br />
 READMORE
 
-## Zapier
-
-Manifestly has partnered with <a href="http://zapier.com">Zapier</a> to provide integrations between many popular web sites and Manifestly. There are now **over 300 services** you can use as triggers for running manifestly checklists.
-
 ## How it Works
 
-Zapier works based on triggers and actions.  You can connect any number of services, including SalesForce, GitHub, Eventbrite, and hundreds of others.  Once connected, you can choose what **triggers in those systems** (for example, a new order on Eventbrite) cause a **checklist to be run** in Manifestly.
+We are utilizing <a href="http://zapier.com">Zapier</a> which integrates with **over 300 services** including SalesForce, GitHub, Eventbrite, and <a href="https://zapier.com/zapbook/apps/">many more</a>.  Once connected, you can choose what **triggers in those systems** (for example, a new order on Eventbrite) cause a **checklist to be run** in Manifestly.
 
 <div class="col-md-3 zapier-logos text-center">
-  <h3>An change here</h3>
+  <h3>A change here</h3>
   <img src="https://s3.amazonaws.com/manifestly-assets/zapier/zendesk.png" />
   <img src="https://s3.amazonaws.com/manifestly-assets/zapier/intercom.png" />
   <img src="https://s3.amazonaws.com/manifestly-assets/zapier/airbrake.png" />
