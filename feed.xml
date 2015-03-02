@@ -14,11 +14,11 @@
     <link rel="alternate" href="http://blog.url.com/2015/02/28/third-party-integrations-beta.html"/>
     <id>http://blog.url.com/2015/02/28/third-party-integrations-beta.html</id>
     <published>2015-02-28T21:12:00Z</published>
-    <updated>2015-03-01T10:03:16-06:00</updated>
+    <updated>2015-03-01T22:10:14-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;We now have integrations with many other services, including the following:&lt;/p&gt;
+    <content type="html">&lt;p&gt;We now have integrations with many other web based software services, including the following:&lt;/p&gt;
 
 &lt;div class="integrations"&gt;
   &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/highrise.png" /&gt;
@@ -33,16 +33,12 @@
 &lt;p&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;h2 id="zapier"&gt;Zapier&lt;/h2&gt;
-
-&lt;p&gt;Manifestly has partnered with &lt;a href="http://zapier.com"&gt;Zapier&lt;/a&gt; to provide integrations between many popular web sites and Manifestly. There are now &lt;strong&gt;over 300 services&lt;/strong&gt; you can use as triggers for running manifestly checklists.&lt;/p&gt;
-
 &lt;h2 id="how-it-works"&gt;How it Works&lt;/h2&gt;
 
-&lt;p&gt;Zapier works based on triggers and actions.  You can connect any number of services, including SalesForce, GitHub, Eventbrite, and hundreds of others.  Once connected, you can choose what &lt;strong&gt;triggers in those systems&lt;/strong&gt; (for example, a new order on Eventbrite) cause a &lt;strong&gt;checklist to be run&lt;/strong&gt; in Manifestly.&lt;/p&gt;
+&lt;p&gt;We are utilizing &lt;a href="http://zapier.com"&gt;Zapier&lt;/a&gt; which integrates with &lt;strong&gt;over 300 services&lt;/strong&gt; including SalesForce, GitHub, Eventbrite, and &lt;a href="https://zapier.com/zapbook/apps/"&gt;many more&lt;/a&gt;.  Once connected, you can choose what &lt;strong&gt;triggers in those systems&lt;/strong&gt; (for example, a new order on Eventbrite) cause a &lt;strong&gt;checklist to be run&lt;/strong&gt; in Manifestly.&lt;/p&gt;
 
 &lt;div class="col-md-3 zapier-logos text-center"&gt;
-  &lt;h3&gt;An change here&lt;/h3&gt;
+  &lt;h3&gt;A change here&lt;/h3&gt;
   &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/zendesk.png" /&gt;
   &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/intercom.png" /&gt;
   &lt;img src="https://s3.amazonaws.com/manifestly-assets/zapier/airbrake.png" /&gt;
@@ -87,7 +83,7 @@ Zapier has &lt;a href="https://zapier.com/zapbook/"&gt;excellent documentation&l
     <link rel="alternate" href="http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html"/>
     <id>http://blog.url.com/2015/01/04/checklists-and-continuous-improvement.html</id>
     <published>2015-01-04T14:31:00Z</published>
-    <updated>2015-03-01T10:02:00-06:00</updated>
+    <updated>2015-03-01T22:05:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -161,7 +157,7 @@ By the end of the day, we had stopped using the checklist.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/11/28/effective-checklists.html"/>
     <id>http://blog.url.com/2014/11/28/effective-checklists.html</id>
     <published>2014-11-28T23:31:00Z</published>
-    <updated>2015-03-01T10:02:00-06:00</updated>
+    <updated>2015-03-01T22:05:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -244,7 +240,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/10/20/our-weekly-review-checklist.html"/>
     <id>http://blog.url.com/2014/10/20/our-weekly-review-checklist.html</id>
     <published>2014-10-20T22:12:00Z</published>
-    <updated>2015-03-01T10:02:00-06:00</updated>
+    <updated>2015-03-01T22:05:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -336,7 +332,7 @@ it over time.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html"/>
     <id>http://blog.url.com/2014/09/22/difference-checklists-todo-lists.html</id>
     <published>2014-09-22T11:55:00Z</published>
-    <updated>2015-03-01T10:02:00-06:00</updated>
+    <updated>2015-03-01T22:05:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -388,7 +384,7 @@ to give away.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/2014/08/22/checklists-in-baseball.html"/>
     <id>http://blog.url.com/2014/08/22/checklists-in-baseball.html</id>
     <published>2014-08-22T16:20:00Z</published>
-    <updated>2015-03-01T10:02:00-06:00</updated>
+    <updated>2015-03-01T22:05:08-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
